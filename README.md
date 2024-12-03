@@ -1,2 +1,4 @@
-# Python Tools Collection
-All Python code snippets to do os based heavy lifting
+# Python Mini Projects Collection
+All Python Projects in one Repo 
+
+Done for organizing purpose.
